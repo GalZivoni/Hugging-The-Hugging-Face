@@ -1,0 +1,14 @@
+datasets==2.3.2
+gensim==4.2.0
+matplotlib==3.2.2
+nltk==3.5
+numpy==1.23.0
+optimum==1.2.3
+optuna==2.10.1
+pandas==1.0.5
+prettytable==3.3.0
+scikit_learn==1.1.1
+torch==1.10.0
+tqdm==4.64.0
+transformers==4.20.1
+wandb==0.12.19
